@@ -46,6 +46,8 @@ Documenta los siguientes pasos:
 
 ![img](gitremoteadd.png)
 15. Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md
-
+![img](gitpushoriginmaster2.png)
 
 16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  
+
+![img](./githubnetworkgraph.png)
